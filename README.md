@@ -1,5 +1,5 @@
-</div>
 ### Fábio Trindade
+</div>
 
 - 🏫 Estudante no 5° período de ciência da computação na UFV-Campus Florestal.
 - 💻 Faço parte do grupo de pesquisa [NuPESSC-UFV](http://nupessc.caf.ufv.br/index.html).
